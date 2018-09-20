@@ -1,0 +1,6 @@
+numpy
+keras
+pandas
+matplotlib
+mpld3
+scikit-learn
